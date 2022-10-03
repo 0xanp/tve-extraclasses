@@ -5,26 +5,31 @@ import os
 import xlrd
 import pandas as pd
 
+# check if template folder is empty else delete all old templates
+template_path = r'\\pdt-ngocle\Training Data\EXTRA CLASSES\TEMPLATES'
+template_list = os.listdir(template_path) 
+if template_list:
+    for template in template_list:
+        os.remove(f'{template_path}\{template}')
+
 # getting all file names from student list directory 
 students_path = "./student-lists"
-dir_list = ["KET 1 - K41.xls"]
-#dir_list = os.listdir(students_path) 
+dir_list = os.listdir(students_path) 
 
 for list in dir_list:
     # get student data as a data frame
     student_data = pd.read_html(f'{students_path}/{list}')[0]
     # reading from templates
-    template_path = './templates/extra-classes/TUTORING COURSE OUTLINE - KET 1.xlsx'
-    output_path = './templates/'
+    template_path = './templates/TUTORING COURSE OUTLINE - KET 1.xlsx'
+    output_path = r'\\pdt-ngocle\Training Data\EXTRA CLASSES\TEMPLATES'
     wb_obj = openpyxl.load_workbook(template_path)
     # generate new file names based on student lists
-    file_name = f'{output_path}{list.split(".")[0]}_extra_class.xlsx'
+    file_name = f'{output_path}\{list.split(".")[0]} - EXTRA CLASS.xlsx'
     # get active sheet from template
     sheet_obj = wb_obj.active 
     # modify title into appropriate class
     name = sheet_obj.cell(row = 1, column = 1) 
-    name.value = f'{name.value}  {list.split("-")[1].split(".")[0].upper()}'
-    #print(name.value)
+    name.value = f'EXTRA CLASS {list.split(".")[0]}'
     # modify student columns
     # col pointer starts at 3 (hard coded atm)
     col_pointer = 4
@@ -54,8 +59,9 @@ for list in dir_list:
         vocab_cell.font = student_font
         col_pointer = col_pointer+3
     # page setup
+    '''
     sheet_obj.page_setup.orientation = "landscape"
-    sheet_obj.page_setup.scale = 75
+    sheet_obj.page_setup.scale = 65
     sheet_obj.sheet_properties.pageSetUpPr.fitToPage = False
     sheet_obj.print_options.horizontalCentered = False
     sheet_obj.print_options.verticalCentered  = False
@@ -64,4 +70,5 @@ for list in dir_list:
     sheet_obj.page_margins.bottom = 0.2
     sheet_obj.page_margins.right = 0.16
     sheet_obj._print_area = None
+    '''
     wb_obj.save(file_name)
