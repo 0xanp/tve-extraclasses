@@ -1,0 +1,33 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>danh sách học viên</x:Name><x:WorksheetOptions><x:DisplayGridlines></x:DisplayGridlines></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+            <colgroup>
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+
+            </colgroup>
+            <thead>
+                <tr>
+                    <th class="head1">STT</th>
+                    <th class="head0" style="width: 120px">MÃ HV</th>
+                    <th class="head1">Tên</th>
+                    <th class="head0">Điện thoại</th>
+                    <th class="head1">Ngày sinh</th>
+                    <th class="head0">Ghi Chú</th>
+                    <th class="head1">Ngày Đăng Ký</th>
+                    <th class="head0">Đã thanh toán</th>
+                    <th class="head1">Học Thử</th>
+                    <th class="head0">Chức năng</th>
+
+                </tr>
+            </thead>
+            <tbody id="ctl10_container"> <tr>  <td> 1</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1354" target="_blank">CN1-1354</a></td>   <td>Lý Thái Anh (Shin)</td>   <td>0359779562</td>   <td>2013</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9619')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 2</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1352" target="_blank">CN1-1352</a></td>   <td>Nguyễn Trần Lê Hân (Kate)</td>   <td>0909706401</td>   <td>2013</td>   <td>Giảm 5% HP - Nguyễn Trần Bảo Hân (Hana)</td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9620')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 3</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1351" target="_blank">CN1-1351</a></td>   <td>Lê Khánh Nhi (Tessa)</td>   <td>0975865045</td>   <td>2013</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9621')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 4</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1350" target="_blank">CN1-1350</a></td>   <td>Phạm Hoàng Phúc (Ryan)</td>   <td>0916733606</td>   <td>2012</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9622')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 5</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1347" target="_blank">CN1-1347</a></td>   <td>Huỳnh Ngọc Mỹ Ý (Rosa)</td>   <td>0918812344</td>   <td>2013</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9624')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 6</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1329" target="_blank">CN1-1329</a></td>   <td>Nguyễn Ngọc Gia Hân (Daisy)</td>   <td>0908064483</td>   <td>2013</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9625')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 7</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1662" target="_blank">CN1-1662</a></td>   <td>Phạm Minh Quân (Ryker)</td>   <td>0933464246</td>   <td>2012</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9629')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 8</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1445" target="_blank">CN1-1445</a></td>   <td>Nguyễn Ngọc Như (Nia)</td>   <td>0906879592</td>   <td>2013</td>   <td></td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9630')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 9</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1416" target="_blank">CN1-1416</a></td>   <td>Nguyễn Thanh Nhã (Naomi)</td>   <td>0833757427</td>   <td>2013</td>   <td>Giảm 5% HP - Nguyễn Thanh Nhàn (Suzy)</td>   <td>04/07/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('9631')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr></tbody>
+        </table></body></html>

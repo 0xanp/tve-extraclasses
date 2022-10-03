@@ -1,0 +1,33 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>danh sách học viên</x:Name><x:WorksheetOptions><x:DisplayGridlines></x:DisplayGridlines></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+            <colgroup>
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+                <col class="con1">
+                <col class="con0">
+
+            </colgroup>
+            <thead>
+                <tr>
+                    <th class="head1">STT</th>
+                    <th class="head0" style="width: 120px">MÃ HV</th>
+                    <th class="head1">Tên</th>
+                    <th class="head0">Điện thoại</th>
+                    <th class="head1">Ngày sinh</th>
+                    <th class="head0">Ghi Chú</th>
+                    <th class="head1">Ngày Đăng Ký</th>
+                    <th class="head0">Đã thanh toán</th>
+                    <th class="head1">Học Thử</th>
+                    <th class="head0">Chức năng</th>
+
+                </tr>
+            </thead>
+            <tbody id="ctl10_container"> <tr>  <td> 1</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-923" target="_blank">CN1-923</a></td>   <td>Nguyễn Thị Kim Ngọc (Nancy 1)</td>   <td>0356443712</td>   <td>2011</td>   <td></td>   <td>30/09/2022</td><td><div target="_blank" href="/Default.aspx?mod=hocvien!History-registry&amp;txtsearch=CN1-923" class="btn btn-default btn-xs m-r-xs">Xem phiếu ĐK</a> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10711')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 2</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-805" target="_blank">CN1-805</a></td>   <td>Tiêu Nguyễn Thành An (Eban)</td>   <td>0966233582</td>   <td>2011</td>   <td></td>   <td>30/09/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10713')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 3</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-2134" target="_blank">CN1-2134</a></td>   <td>Đinh Lê Nguyên (Tom)</td>   <td>0971203474</td>   <td>26/01/2010</td>   <td></td>   <td>30/09/2022</td><td><i class="fa fa-check-circle"></i> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10714')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 4</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1255" target="_blank">CN1-1255</a></td>   <td>Nguyễn Bảo Châu (Jill)</td>   <td>0938815554</td>   <td>2012</td>   <td>PreK51</td>   <td>30/09/2022</td><td><div target="_blank" href="/Default.aspx?mod=hocvien!History-registry&amp;txtsearch=CN1-1255" class="btn btn-default btn-xs m-r-xs">Xem phiếu ĐK</a> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10716')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 5</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1418" target="_blank">CN1-1418</a></td>   <td>Trần Thị Gia Hân (Hanna)</td>   <td>0907232630</td>   <td>2010</td>   <td></td>   <td>30/09/2022</td><td><div target="_blank" href="/Default.aspx?mod=hocvien!History-registry&amp;txtsearch=CN1-1418" class="btn btn-default btn-xs m-r-xs">Xem phiếu ĐK</a> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10718')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 6</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-249" target="_blank">CN1-249</a></td>   <td>Nguyễn Thái Hoa (Ella)</td>   <td>0937920581</td>   <td>2011</td>   <td>Giảm 5 % Nguyễn Ngọc Lan</td>   <td>30/09/2022</td><td><div target="_blank" href="/Default.aspx?mod=hocvien!History-registry&amp;txtsearch=CN1-249" class="btn btn-default btn-xs m-r-xs">Xem phiếu ĐK</a> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10719')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 7</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-1685" target="_blank">CN1-1685</a></td>   <td>Nguyễn Thị Ngọc Mai (Suzy)</td>   <td>0369834593</td>   <td>2010</td>   <td></td>   <td>30/09/2022</td><td><div target="_blank" href="/Default.aspx?mod=hocvien!History-registry&amp;txtsearch=CN1-1685" class="btn btn-default btn-xs m-r-xs">Xem phiếu ĐK</a> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10720')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr> <tr>  <td> 8</td>   <td><div href="/?mod=hocvien!Search&amp;txtsearch=CN1-782" target="_blank">CN1-782</a></td>   <td>Huỳnh Trí Đức (Ray)</td>   <td>0938122366</td>   <td>2011</td>   <td></td>   <td>30/09/2022</td><td><div target="_blank" href="/Default.aspx?mod=hocvien!History-registry&amp;txtsearch=CN1-782" class="btn btn-default btn-xs m-r-xs">Xem phiếu ĐK</a> </td>   <td>Không</td>   <td><div href="javascript:Remove_class('10721')" class="btn btn-default btn-xs m-r-xs"><i class="i i-cross2"></i></a></td>  </tr></tbody>
+        </table></body></html>
