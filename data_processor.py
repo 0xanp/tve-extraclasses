@@ -58,17 +58,4 @@ for list in dir_list:
         vocab_cell.value = "Vocab"
         vocab_cell.font = student_font
         col_pointer = col_pointer+3
-    # page setup
-    '''
-    sheet_obj.page_setup.orientation = "landscape"
-    sheet_obj.page_setup.scale = 65
-    sheet_obj.sheet_properties.pageSetUpPr.fitToPage = False
-    sheet_obj.print_options.horizontalCentered = False
-    sheet_obj.print_options.verticalCentered  = False
-    sheet_obj.page_margins.top = 0.314
-    sheet_obj.page_margins.left = 0.17
-    sheet_obj.page_margins.bottom = 0.2
-    sheet_obj.page_margins.right = 0.16
-    sheet_obj._print_area = None
-    '''
     wb_obj.save(file_name)
