@@ -14,8 +14,8 @@ from pathlib import Path
 load_dotenv()
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD")
-DOWNLOAD_PATH = os.getenv("DOWNLOAD_PATH")
-STUDENT_LISTS_PATH = os.getenv("STUDENT_LISTS_PATH")
+DOWNLOAD_PATH = r'{}'.format(os.getenv("DOWNLOAD_PATH"))
+STUDENT_LISTS_PATH = r'{}'.format(os.getenv("STUDENT_LISTS_PATH"))
 
 # check if the the download is finished
 def is_download_finished(temp_folder):
