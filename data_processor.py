@@ -2,7 +2,6 @@ import openpyxl
 from openpyxl import Workbook
 from openpyxl.styles import Font
 import os
-import xlrd
 import pandas as pd
 
 # check if template folder is empty else delete all old templates

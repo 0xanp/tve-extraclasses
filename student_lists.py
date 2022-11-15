@@ -1,5 +1,4 @@
 import os
-import glob
 import time
 from dotenv import load_dotenv
 from webdriver_manager.chrome import ChromeDriverManager

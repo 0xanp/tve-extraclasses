@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 
 # sensitive data
-EXTRA CLASSES
+/BANG DIEM
+/EXTRA CLASSES
+/student-lists
+/templates
+
